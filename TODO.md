@@ -6,3 +6,4 @@
 * highly reusable ui tests using cucumber
 * GraphQL, the rest and the past
 * gradual evolution of distributed system using Vert.x
+* vertx coroutines experiments
